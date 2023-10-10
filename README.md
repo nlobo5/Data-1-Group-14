@@ -3,7 +3,7 @@
 ## Welcome!
 Hi, we're Fatima Zohra, Pelle, and Nina. Here, you can find our responses to the Data 1 course assignments.
 
-Thanks for stoppoing by!
+Thanks for stopping by!
 
 ## Assignment 1
 
