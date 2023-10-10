@@ -1,7 +1,8 @@
 # Data 1: Group 14 - MSc MADE 2023 @ AMS Institute
 
 ## Welcome!
-Hi, we're Fatima Zohra, Pelle, and Nina. Here, you can find our responses to the Metropolitan Data 1 course assignments.
+Hi there - we're Fatima Zohra, Pelle, and Nina. Here, you can find our responses to the Metropolitan Data 1 course assignments.
+
 Thanks for stopping by!
 
 ## Assignment 1: Paralympics
